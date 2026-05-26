@@ -1,0 +1,20 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "Мой первый проект на Хекслете",
+  "homepage": "https://github.com/bluelock-coder/hexlet-js#readme",
+  "bugs": {
+    "url": "https://github.com/bluelock-coder/hexlet-js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluelock-coder/hexlet-js.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
